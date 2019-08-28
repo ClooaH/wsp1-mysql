@@ -19,3 +19,5 @@ om apache2 är en bicc; tjänster -> apachebranch och stoppa
 **setup**
 kör
 	sudo mysql -u root
+	
+	grant all privileges on *.* to 'adam'@'localhost' identified by 'password';
