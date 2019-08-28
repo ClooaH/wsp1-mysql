@@ -13,3 +13,9 @@ kör:
 om apache2 är en bicc; tjänster -> apachebranch och stoppa
 
 ## viktigt, apache2 är port 88 så localhost:88
+
+## MYSQL
+
+**setup**
+kör
+	sudo mysql -u root
